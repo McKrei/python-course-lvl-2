@@ -1,0 +1,10 @@
+1. [Базовые типы данных](./base_type_data.md)
+1. [Синтаксис](./syntax.md)
+1. [Операторы](./operator.md)
+1. [Оператор присваивания](./assignment_operator.md)
+1. [Контейнерные типы данных](./container_data_types.md)
+1. [Мутабельность и иммутабельность](./mutability_immutability.md)
+1. [Области видимости](./scopes.md)
+1. [Циклы и итераторы](./loops_iterators.md)
+
+* [Задачи](./tasks.md)
