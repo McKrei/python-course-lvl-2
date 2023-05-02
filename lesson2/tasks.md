@@ -15,9 +15,9 @@ assert multiply(7, -3) == -21
 
 Тесты:
 ```python
-assert calculate("2+3*4-5/2") == 10.5
+assert calculate("2+3*4-5/2") == 11.5
 assert calculate("1+2+3+4+5") == 15
-assert calculate("10*5-7*3+2") == 23
+assert calculate("10*5-7*3+2") == 31
 ```
 
 ## Операторы:
@@ -80,6 +80,6 @@ assert multiply_x_by_y() == 50
 Тесты:
 ```python
 assert filter_capitalized_words(["Apple", "Banana", "cherry"]) == ["Apple", "Banana"]
-assert filter_capitalized_words(["Python", "java", "C++"]) == ["Python"]
+assert filter_capitalized_words(["Python", "java", "C++"]) == ["Python", "C++"]
 assert filter_capitalized_words(["Red", "green", "Blue"]) == ["Red", "Blue"]
 ```
