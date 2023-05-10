@@ -12,3 +12,6 @@
 
 ## Урок 5
 * [Структурированные данные, базы данных, SQL](./lesson5/index.md)
+
+## Урок 6
+* [Веб-парсинг: BeautifulSoup, Requests, Selenium, инструменты веб-разработки](./lesson6/index.md)
