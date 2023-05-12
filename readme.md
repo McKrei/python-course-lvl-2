@@ -15,3 +15,8 @@
 
 ## Урок 6
 * [Веб-парсинг: BeautifulSoup, Requests, Selenium, инструменты веб-разработки](./lesson6/index.md)
+* [Код с урока](./lesson6/example)
+
+## Урок 7
+* [Многопоточность и параллелизм](./lesson7/index.md)
+* [Код с урока](./lesson7/example)
