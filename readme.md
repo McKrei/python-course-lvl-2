@@ -20,3 +20,7 @@
 ## Урок 7
 * [Многопоточность и параллелизм](./lesson7/index.md)
 * [Код с урока](./lesson7/example)
+
+## Урок 8
+* [Web framework, изучаем Flask](./lesson8/index.md)
+* [Код с урока](https://github.com/McKrei/flask_test/)
