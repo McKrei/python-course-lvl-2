@@ -24,3 +24,6 @@
 ## Урок 8
 * [Web framework, изучаем Flask](./lesson8/index.md)
 * [Код с урока](https://github.com/McKrei/flask_test/)
+
+## Урок 9
+* [Web framework, изучаем FastAPI REST API, Django MVC](./lesson9/index.md)
