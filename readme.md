@@ -27,3 +27,6 @@
 
 ## Урок 9
 * [Web framework, изучаем FastAPI REST API, Django MVC](./lesson9/index.md)
+
+## Урок 10
+* [Автоматическое тестирование кода](./lesson10/index.md)
